@@ -8,4 +8,5 @@ export const Container = styled.SafeAreaView`
 
 export const Text = styled.Text`
   font-size: ${responsiveFontSize(4)}px;
+  color: #000;
 `;

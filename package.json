@@ -1,0 +1,31 @@
+{
+    "name": "react-native-template-byantunes",
+    "version": "0.0.1",
+    "description": "React Native template for a quick start by Antunes.",
+    "files": [
+      "template",
+      "template.config.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/antunesgabriel/react-native-template-byantunes.git"
+    },
+    "keywords": [
+      "react-native",
+      "typescript",
+      "jest",
+      "template",
+      "boilerplate",
+      "styled-components",
+      "@react-navigation/native",
+      "@react-navigation/stack",
+      "axios",
+      "react-native-flash-message"
+    ],
+    "author": "Antunes Gabriel <gabrielantunescontato@gmail.com.br>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/antunesgabriel/react-native-template-byantunes/issues"
+    },
+    "homepage": "https://github.com/antunesgabriel/react-native-template-byantunes#readme"
+  }

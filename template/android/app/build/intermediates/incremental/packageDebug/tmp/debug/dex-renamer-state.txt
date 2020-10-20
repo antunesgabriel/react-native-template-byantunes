@@ -1,0 +1,4 @@
+#Tue Oct 20 13:08:46 BRT 2020
+base.0=/Users/mac03vilaapps/projects/packages/react-native-template-byantunes/template/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
